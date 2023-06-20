@@ -1,4 +1,4 @@
-package com.dataStructure.stack;
+package com.dataStructure.stack.parTest;
 
 import java.io.BufferedReader;
 import java.io.IOException;

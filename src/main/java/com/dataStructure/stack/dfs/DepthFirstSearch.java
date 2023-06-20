@@ -1,4 +1,4 @@
-package com.dataStructure.stack;
+package com.dataStructure.stack.dfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
