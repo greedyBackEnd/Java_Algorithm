@@ -1,4 +1,4 @@
-package com.dataStructure.queue.bfs;
+package com.dataStructure.graph;
 
 import java.io.BufferedReader;
 import java.io.IOException;
